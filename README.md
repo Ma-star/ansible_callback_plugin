@@ -4,7 +4,9 @@ sqlite3
 output format csv
 
 STEP1:
+
 vi ansible.cfg
+
 [defaults]
 
 callback_plugins = /path/of/callback/plugin
