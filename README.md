@@ -7,7 +7,7 @@ STEP1:
 vi ansible.cfg
 [defaults]
 
-callback_plugins = <path of callback plugin>
+callback_plugins = /path/of/callback/plugin
   
 STEP2:
 
